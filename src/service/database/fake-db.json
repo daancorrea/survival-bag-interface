@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Feijão",
+        "type": "Lata",
+        "quantity": 2,
+        "expirationAt": "04/05/2024",
+        "createdAt": "04/05/2023",
+        "updatedAt": "04/05/2023"
+    }
+]
